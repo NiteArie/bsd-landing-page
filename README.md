@@ -1,5 +1,9 @@
 # bsd-landing-page (Landing Page)
 
+## Design Preview
+
+Adobe Deisgn: [https://xd.adobe.com/view/b1a3be51-1037-4f21-8b01-5b6a9fee0a92-e4f0/](https://xd.adobe.com/view/b1a3be51-1037-4f21-8b01-5b6a9fee0a92-e4f0/)
+
 ## Requirement
 
 * The website looks similar to the design (Desktop and Mobile) and is available for users through a link.
